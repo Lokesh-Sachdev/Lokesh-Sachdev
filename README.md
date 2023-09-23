@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokesh-Sachdev
 - 👀 I’m interested in Crypto, Blockchain and Gaming.
-- 🌱 I’m currently learning React.Js
+- 🌱 Working as a Front-End Dev, and learning NextJS.
 - 💞️ I’m looking to collaborate on Designing.
 - 📫 How to reach me @Sachdev927@gmail.com
 
